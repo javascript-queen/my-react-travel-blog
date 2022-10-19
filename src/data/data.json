@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Mexico",
+    "location": "MEXICO",
+    "googleMapsUrl": "https://www.google.com/maps?q=mexico&sxsrf=ALiCzsbBy5XvHbnw0dbirS-Mh3U7Z8h35w:1666041677244&uact=5&gs_lp=ugYGCAEQARgJugYGCAIQARgIEgdnd3Mtd2l6uAED-AEBMgQQIxgnMgQQIxgnMgcQLhjUAhhDMgQQLhhDMgQQABhDMgQQABhDMgQQABhDMgQQLhhDMgUQABiABDILEC4YgAQYxwEYrwHCAgoQABhHGNYEGLADwgINEAAYRxjWBBiwAxjJA8ICBxAAGLADGEPCAg4QABjkAhjWBBiwA9gBAcICDRAuGMgDGLADGEPYAQKQBhJIqwpQiQJYiQJwAXgByAEAkAEAmAGUAaABlAGqAQMwLjHiAwQgTRgB4gMEIEEYAOIDBCBGGAGIBgE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjl1pT0mOj6AhW4goQIHUJ3AWQQ_AUoAXoECAEQAw",
+    "date": "March, 2022 - August, 2022",
+    "description": "Mexico is a bright country full of surprises. It's known for its rich culture, ancient ruins, and dazzling beaches. I enjoyed an opportunity to learn Spanish, to get my belly button piercing, and to finally be reunited with my husband-to-be.",
+    "image": "img/mexico.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Colombia",
+    "location": "COLOMBIA",
+    "googleMapsUrl": "https://www.google.com/maps/place/Colombia/@4.645345,-74.3390061,5z/data=!3m1!4b1!4m5!3m4!1s0x8e15a43aae1594a3:0x9a0d9a04eff2a340!8m2!3d4.570868!4d-74.297333",
+    "date": "September, 2022 - October, 2022",
+    "description": "Colombia was the next country on our way. I was very excited to come here because I've never imagined myself here. I also just watched Encanto... So it's not a surprize that I wanted to go here so badly and to see everything with my own eyes.",
+    "image": "img/colombia.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Arizona",
+    "location": "USA",
+    "googleMapsUrl": "https://www.google.com/maps/place/Arizona,+USA/@34.1684146,-111.9295252,7z/data=!3m1!4b1!4m5!3m4!1s0x872b08ebcb4c186b:0x423927b17fc1cd71!8m2!3d34.0489281!4d-111.0937311",
+    "date": "To be announced...",
+    "description": "I've never been to the US... I actually don't think I've ever wanted to go there. So I don't know what to wait from this country. It's magical in the pictures. Arizona sounds like a place with an arid and hot climate, stunning landscapes which remind me of Mars, and unbelievable art. We'll see...",
+    "image": "img/arizona.jpeg"
+  }
+]

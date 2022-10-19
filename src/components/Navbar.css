@@ -1,0 +1,17 @@
+nav {
+  background-color: #F55A5A;
+  font-family: "Lobster";
+  color: aliceblue;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+  padding-right: 5px;
+  margin-bottom: -2px;
+}
