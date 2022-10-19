@@ -1,5 +1,7 @@
 # my-react-travel-blog
 
+⚠️ Source files are in the master branch
+
 This project is important for every React dev who wants to understand:
 
 - props(+ destructing props)
