@@ -9,7 +9,7 @@ This project is important for every React dev who wants to understand:
 - array.map()
 
 
-You'll see a simple app I created to show off basic skills to know if you learn React. I have a json file to hardcode my props (so, no, it's not any kind of API yet). 
+It's a simple app I created to show off basic skills to know if you learn React. I have a json file to hardcode my props (so, no, it's not any kind of API yet). 
 
 Here's what you'll see:
 
